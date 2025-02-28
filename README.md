@@ -65,3 +65,6 @@ To start the React app, run:
 sh code:
 npm start
 Your app will now be running at http://localhost:3000/.
+
+![Screenshot (38)](https://github.com/user-attachments/assets/41dfc657-0c81-42f9-aa69-f12bfa41d7a7)
+
